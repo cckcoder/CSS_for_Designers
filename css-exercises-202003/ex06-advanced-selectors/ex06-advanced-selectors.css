@@ -1,0 +1,133 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Rubik', 'Prompt', sans-serif;
+  padding: 48px;
+  background-color: #eeeeee;
+}
+
+.card {
+  padding: 40px;
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.1);
+}
+
+.header {
+  margin-top: 0;
+  margin-bottom: 16px;
+}
+
+.input-container {
+  display: flex;
+}
+
+.input {
+  font-size: 16px;
+  font-family: 'Rubik', 'Prompt', sans-serif;
+  text-transform: uppercase;
+  margin-right: 10px;
+  width: 200px;
+  height: 40px;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  padding: 0px 16px;
+}
+.input:focus {
+  outline: none;
+}
+
+.promo-list {
+  margin-bottom: 32px;
+  list-style-type: none;
+}
+
+.label {
+  display: block;
+  margin-bottom: 4px;
+}
+
+.button {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  height: 40px;
+  padding: 0px 24px;
+  background-color: #48b6a3;
+  color: white;
+  border-radius: 100px;
+}
+
+/* ---------------------------------------------------------------------------------------------------------
+ # Start writing your code here
+--------------------------------------------------------------------------------------------------------- */
+
+.button:hover {
+
+}
+
+.label::before {
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ---------------------------------------------------------------------------------------------------------
+ # Solution
+--------------------------------------------------------------------------------------------------------- */
+
+
+/*
+.button:hover {
+  background-color: #378c7d;
+}
+
+.button:active {
+  background-color: #2b6f63;
+}
+
+.input:focus {
+  border-color: #48b6a3;
+}
+
+.input::placeholder {
+  color: #c9c9c9;
+}
+
+.label::before {
+  content: '👉';
+}
+
+.promo-list-item::before {
+  content: '👍';
+}
+ */

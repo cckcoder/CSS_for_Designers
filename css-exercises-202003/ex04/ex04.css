@@ -1,0 +1,84 @@
+/* ---------------------------------------------------------------------------------------------------------
+ # Start writing your code here
+--------------------------------------------------------------------------------------------------------- */
+
+h1 {
+  font-family: Arial;
+  font-size: 48px;
+}
+
+p {
+  font-family: Arial;
+  font-size: 18px;
+}
+
+a {
+  font-family: Arial;
+  font-size: 18px;
+  color: orange;
+}
+
+img {
+  width: 180px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ---------------------------------------------------------------------------------------------------------
+ # Solution
+--------------------------------------------------------------------------------------------------------- */
+
+/*
+h1 {
+  font-family: Arial;
+  font-size: 48px;
+}
+
+p {
+  font-family: Arial;
+  font-size: 18px;
+}
+
+a {
+  font-family: Arial;
+  font-size: 18px;
+  color: orange;
+}
+
+img {
+  width: 180px;
+}
+
+.quote {
+  font-size: 32px;
+  font-weight: 600;
+  text-align: center;
+}
+
+.paragraph-1 {
+  color: orange;
+}
+
+.paragraph-2 {
+  color: grey;
+}
+ */

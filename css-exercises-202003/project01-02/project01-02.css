@@ -1,0 +1,110 @@
+html {
+  box-sizing: border-box;
+}
+
+* {
+  box-sizing: inherit;
+  background-size: cover;
+}
+
+body {
+  margin: 0;
+  color: #484848;
+}
+
+img {
+  object-fit: cover;
+}
+
+.input::placeholder {
+  color: #c5c5c5;
+}
+
+/* ---------------------------------------------------------------------------------------------------------
+ # Start writing your code here
+--------------------------------------------------------------------------------------------------------- */
+.nav-brand {
+  width: 48px;
+  height: 48px;
+}
+
+.nav-item {}
+
+.main-container {
+  /* 'https://images.unsplash.com/photo-1566288623500-66fdb0f40fa6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2251&q=80' */
+}
+
+.card {
+  border-radius: 4px;
+}
+
+.heading {}
+
+.button {
+  text-align: center;
+  border-radius: 4px;
+}
+
+.footer {}
+
+.label {}
+
+.input {
+  height: 48px;
+}
+
+
+
+
+/* ---------------------------------------------------------------------------------------------------------
+ # Solution
+--------------------------------------------------------------------------------------------------------- */
+/* 
+.nav-brand {
+  width: 48px;
+  height: 48px;
+}
+
+.nav-item {
+  font-size: 14px;
+  color: white;
+}
+
+.main-container {
+  height: 100vh;
+  background-image: url('https://images.unsplash.com/photo-1566288623500-66fdb0f40fa6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2251&q=80');
+}
+
+.card {
+  width: 450px;
+  background-color: white;
+  border-radius: 4px;
+}
+
+.heading {
+  font-size: 32px;
+  font-weight: 700;
+}
+
+.button {
+  background-color: #ff5a5f;
+  color: white;
+  text-align: center;
+  border-radius: 4px;
+}
+
+.footer {
+  color: white;
+  text-align: right;
+}
+
+.label {
+  font-size: 12px;
+}
+
+.input {
+  font-size: 16px;
+  font-weight: 300;
+  height: 48px;
+} 
+ */

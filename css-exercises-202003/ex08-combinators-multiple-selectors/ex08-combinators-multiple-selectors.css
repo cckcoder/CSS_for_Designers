@@ -1,0 +1,140 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Rubik', 'Prompt', sans-serif;
+  padding: 48px;
+  background-color: #eeeeee;
+}
+
+.card {
+  padding: 40px;
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.1);
+  margin-bottom: 96px;
+}
+
+.card-title {
+  margin-top: 0;
+  margin-bottom: 16px;
+}
+
+.card-image {
+  width: 300px;
+  margin-left: 64px;
+}
+
+.promo-list {
+  margin-bottom: 32px;
+  list-style-type: none;
+}
+
+.label {
+  display: block;
+  margin-bottom: 4px;
+}
+
+.card-button {
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  height: 40px;
+  padding: 0px 24px;
+  background-color: #48b6a3;
+  color: white;
+  border-radius: 100px;
+  min-width: 180px;
+}
+
+.card-large {
+  width: 100%;
+  display: flex;
+}
+
+.card-medium {
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.card-medium .card-button {
+  margin-left: 64px;
+}
+.card-small {
+  width: 33%;
+}
+
+/* ---------------------------------------------------------------------------------------------------------
+ # Start writing your code here
+--------------------------------------------------------------------------------------------------------- */
+.card-large .card-title {
+ /* Style title of card large here */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ---------------------------------------------------------------------------------------------------------
+ # Solution
+--------------------------------------------------------------------------------------------------------- */
+
+/*
+.card-large .card-title {
+  font-size: 48px;
+}
+
+.card-large .card-content {
+  font-size: 20px;
+}
+
+.card-large .card-button {
+  width: 180px;
+  margin-top: 64px;
+}
+
+
+.card-medium .card-title {
+  font-size: 32px;
+}
+
+.card-medium .card-content {
+  font-size: 16px;
+}
+
+.card-medium .card-button {
+  width: 180px;
+}
+
+
+.card-small .card-title {
+  font-size: 28px;
+}
+
+.card-small .card-title {
+  font-size: 16px;
+}
+
+.card-small .card-button {
+  width: 100%;
+  background-color: transparent;
+  color: #48b6a3;
+  margin-top: 24px;
+}
+*/

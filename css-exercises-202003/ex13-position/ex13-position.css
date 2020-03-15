@@ -1,0 +1,199 @@
+/** 
+  * Start writing your code below
+  * Use only CSS position properties
+  * Only add styles when necessary
+*/
+
+/* ##### Don't change code below this line. ##### */
+.box {
+  border: 1px dashed #cccccc;
+  width: 150px;
+  height: 100px;
+  padding: 0 12px;
+  display: inline-block;
+  position: relative;
+}
+
+.box-group {
+  border: 1px dashed #cccccc;
+  padding: 24px;
+  width: 80%;
+}
+
+#box-group1 .box {
+  background: rgba(211, 229, 245, 0.5);
+}
+
+#box-group2 .box {
+  background: rgba(251, 233, 206, 0.5);
+}
+
+#box-group3 .box {
+  background: rgba(255, 83, 112, 0.3);
+}
+
+.box span {
+  color: #484848;
+  right: 5px;
+  bottom: 5px;
+  position: absolute;
+}
+
+/* ---------------------------------------------------------------------------------------------------------
+ # Start writing your code here
+--------------------------------------------------------------------------------------------------------- */
+
+/* -----------------
+  ## Exercise #1
+----------------- */
+#box-group1 {
+}
+
+#box-1 {
+}
+
+#box-2 {
+}
+
+#box-3 {
+}
+
+/* -----------------
+  ## Exercise #2
+----------------- */
+#box-group2 {
+}
+
+#box-4 {
+}
+
+#box-5 {
+}
+
+#box-6 {
+}
+
+/* -----------------
+  ## Exercise #3
+----------------- */
+#box-group3 {
+}
+
+#box-7 {
+}
+
+#box-8 {
+}
+
+#box-9 {
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ---------------------------------------------------------------------------------------------------------
+ # Solution
+--------------------------------------------------------------------------------------------------------- */
+
+/* -----------------
+  ## Exercise #1
+----------------- */
+/*
+#box-group1 {
+}
+
+#box-1 {
+}
+
+#box-2 {
+  position: relative;
+  top: 24px;
+}
+
+#box-3 {
+  position: relative;
+  top: 48px;
+}
+*/
+
+
+
+
+/* -----------------
+  ## Exercise #2
+----------------- */
+
+/*
+#box-group2 {
+  position: relative;
+}
+
+#box-4 {
+  position: absolute;
+  right: 0;
+}
+
+#box-5 {
+}
+
+#box-6 {
+}
+*/
+
+
+
+
+/* -----------------
+  ## Exercise #3
+----------------- */
+
+/*
+#box-group3 {
+}
+
+#box-7 {
+  position: fixed;
+}
+
+#box-8 {
+  position: fixed;
+  top: 0;
+  right: 0;
+}
+
+#box-9 {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: auto;
+}
+*/
