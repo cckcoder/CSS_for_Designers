@@ -1,1 +1,39 @@
 /* Do not modify this file in this exercise */
+h1 {
+  font-family: Arial;
+  font-size: 48px;
+  text-align: center;
+}
+
+p {
+  font-family: Arial;
+  font-size: 18px;
+}
+
+a {
+  font-family: Arial;
+  font-size: 18px;
+  color: orange;
+}
+
+img {
+  width: 180px;
+}
+
+.quote {
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.paragraph-1 {
+  color: orange;
+}
+
+.paragraph-2 {
+  color: #808080;
+}
+
+.underline {
+  text-underline-position: below;
+}
